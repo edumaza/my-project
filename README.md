@@ -1,2 +1,2 @@
 ﻿# my-project
-## Eduardo Maza
+## Eduardo Maza Ortega
